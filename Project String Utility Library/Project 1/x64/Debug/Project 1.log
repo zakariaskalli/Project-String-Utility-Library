@@ -1,0 +1,62 @@
+﻿  Project 1.cpp
+C:\Project C++\OPP Level-1\Project 1\Project 1\clsString.h(63,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%201.cpp')
+  
+C:\Project C++\OPP Level-1\Project 1\Project 1\clsString.h(206,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%201.cpp')
+  
+C:\Project C++\OPP Level-1\Project 1\Project 1\clsString.h(352,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Project%201.cpp')
+  
+C:\Project C++\OPP Level-1\Project 1\Project 1\clsString.h(376,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Project%201.cpp')
+  
+C:\Project C++\OPP Level-1\Project 1\Project 1\clsString.h(399,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Project%201.cpp')
+  
+C:\Project C++\OPP Level-1\Project 1\Project 1\clsString.h(510,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Project%201.cpp')
+  
+C:\Project C++\OPP Level-1\Project 1\Project 1\clsString.h(524,13): warning C4101: 'Pos': unreferenced local variable
+  (compiling source file 'Project%201.cpp')
+  
+C:\Project C++\OPP Level-1\Project 1\Project 1\clsString.h(575,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%201.cpp')
+  
+C:\Project C++\OPP Level-1\Project 1\Project 1\clsString.h(580,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%201.cpp')
+  
+  clsString.cpp
+C:\Project C++\OPP Level-1\Project 1\Project 1\clsString.h(63,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsString.cpp')
+  
+C:\Project C++\OPP Level-1\Project 1\Project 1\clsString.h(206,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsString.cpp')
+  
+C:\Project C++\OPP Level-1\Project 1\Project 1\clsString.h(352,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'clsString.cpp')
+  
+C:\Project C++\OPP Level-1\Project 1\Project 1\clsString.h(376,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'clsString.cpp')
+  
+C:\Project C++\OPP Level-1\Project 1\Project 1\clsString.h(399,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'clsString.cpp')
+  
+C:\Project C++\OPP Level-1\Project 1\Project 1\clsString.h(510,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'clsString.cpp')
+  
+C:\Project C++\OPP Level-1\Project 1\Project 1\clsString.h(524,13): warning C4101: 'Pos': unreferenced local variable
+  (compiling source file 'clsString.cpp')
+  
+C:\Project C++\OPP Level-1\Project 1\Project 1\clsString.h(575,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsString.cpp')
+  
+C:\Project C++\OPP Level-1\Project 1\Project 1\clsString.h(580,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsString.cpp')
+  
+  Generating Code...
+C:\Project C++\OPP Level-1\Project 1\Project 1\clsString.h(100): warning C4715: 'clsString::PrintFirstLettersOfString': not all control paths return a value
+C:\Project C++\OPP Level-1\Project 1\Project 1\clsString.h(385): warning C4715: 'clsString::CountEachWordInString': not all control paths return a value
+C:\Project C++\OPP Level-1\Project 1\Project 1\clsString.h(428): warning C4715: 'clsString::TrimLeft': not all control paths return a value
+C:\Project C++\OPP Level-1\Project 1\Project 1\clsString.h(443): warning C4715: 'clsString::TrimRight': not all control paths return a value
+  Project 1.vcxproj -> C:\Project C++\OPP Level-1\Project 1\x64\Debug\Project 1.exe
